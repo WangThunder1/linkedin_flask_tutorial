@@ -16,7 +16,6 @@ classifiers = [
         'Programming Language :: Python :: 3',
         'Topic :: Communications',
     ]
-#include = ["dummy_package/config.toml"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
@@ -29,11 +28,9 @@ flask = "^3.0.2"
 types-toml = "^0.10.8.7"
 pytest = "^8.0.0"
 pylint = "^3.0.3"
-#mypy = "^1.8.0"
 pytest-cov = "^4.1.0"
 black = "^24.1.1"
 isort = "^5.13.2"
-#loguru-mypy = "^0.0.4"
 pydocstyle = {extras = ["toml"], version = "^6.3.0"}
 
 [tool.poetry.group.build.dependencies]
