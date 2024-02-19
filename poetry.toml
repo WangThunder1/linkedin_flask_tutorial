@@ -1,0 +1,13 @@
+[virtualenvs]
+cache-dir = "."
+in-project = true
+create = true
+[repositories]
+
+#incase pypi is inacessable
+[repositories.fpho]
+url = "https://files.pythonhosted.org"
+[certificates.PyPI]
+cert = false
+[certificates.fpho]
+cert = false
