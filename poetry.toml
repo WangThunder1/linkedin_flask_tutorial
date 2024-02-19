@@ -4,7 +4,7 @@ in-project = true
 create = true
 [repositories]
 
-#incase pypi is inacessable
+#incase pypi is inaccessible
 [repositories.fpho]
 url = "https://files.pythonhosted.org"
 [certificates.PyPI]
