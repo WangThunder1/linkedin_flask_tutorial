@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "linkeding_flask_tutorial"
+name = "linkedin_flask_tutorial"
 version = "0.1.0"
 description = "LinkedIn Flask Tutorial (https://www.linkedin.com/learning/flask-essential-training/) follow along code"
 authors = ["Sarah Burnside <sarahburnside787@gmail.com>"]
